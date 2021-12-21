@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ali-Sufyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+
+- Hi, my name is Ali Sufyan and I am a Software Engineer at the Vvork Cloud Technologies.
+
+[![Ali Sufyan Github States](https://github-readme-stats.vercel.app/api?username=Ali-Sufyan&show_icons=true&theme=dracula)](https://github.com/Ali-Sufyan/github-readme-stats)
 
 <!---
 Ali-Sufyan/Ali-Sufyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
